@@ -39,7 +39,7 @@
         Object.assign(document.createElement("link"), {
             rel: "stylesheet",
             type: "text/css",
-            href: "https://github.com/Vendicated/Vencord/releases/download/devbuild/browser.css"
+            href: "https://raw.githubusercontent.com/maddie480/Vendroid/main/dist/browser.css"
         })
     ), { once: true });
 })();
